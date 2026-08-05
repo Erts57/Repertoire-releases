@@ -14,7 +14,6 @@ Get the latest release:
 | -------- | ---------------- |
 | **Windows** | NSIS installer (`.exe`) |
 | **macOS** | `.dmg` (Apple Silicon builds from CI) |
-| **Linux** | `.deb` or AppImage |
 
 Exact asset names appear on each release page. Each release also includes `README.md` and `LICENSE` as downloadable assets next to the installers.
 

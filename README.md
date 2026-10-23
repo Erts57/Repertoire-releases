@@ -15,7 +15,7 @@ Get the latest release:
 | **Windows** | NSIS installer (`.exe`) |
 | **macOS** | `.dmg` (Apple Silicon builds from CI) |
 
-Exact asset names appear on each release page. Each release also includes `README.md` and `LICENSE` as downloadable assets next to the installers.
+Exact asset names appear on each release page. Each release also includes `README.md`, `LICENSE`, and `CHANGELOG.md` as downloadable assets next to the installers.
 
 ## Install notes
 
@@ -27,7 +27,7 @@ After install, the app can **auto-update** from this repository. Update packages
 
 - GitHub Releases with platform installers
 - Updater artifacts and `latest.json` for the in-app updater
-- This README and [LICENSE](./LICENSE) on the default branch (and attached to each release)
+- This README, [LICENSE](./LICENSE), and [CHANGELOG](./CHANGELOG.md) on the default branch (and attached to each release)
 
 No source code, issues, or pull requests are maintained here.
 
